@@ -15,7 +15,7 @@ Guidline :
 
 step 1:- Install Xampp 
 
-step 2:- Open Xampp folderand  paste the whole project inside htdocs folder
+step 2:- Open Xampp folder and  paste the whole project inside htdocs folder
 
 step 3:- Start Xampp server and start apache and mysql
 
