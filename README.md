@@ -30,26 +30,26 @@ step 7:- admin username :-admin and password : admin
 
 if any query you can contact me at any time at linkedIn :-https://www.linkedin.com/in/rajesh-rathore-409a0316b/
 
-#If it is helpfull for you please give star
+# If it is helpfull for you please give star
 
-#Topview of index page
+# Topview of index page
 <div align="center">
     <img src="./images/topview.png" width="600px"</img> 
 </div>
-#dance styles that provide to perform on the stage 
+# dance styles that provide to perform on the stage 
 <div align="center">
    <img src="./images/dancestyle.png" width="600px"</img> 
 </div>
-#footer section
+# footer section
 <div align="center">
    <img src="./images/footer.png" width="600px"</img> 
 </div>
-#Add workshop 
+# Add workshop 
 after admin login, can add workshop 
 <div align="center">
    <img src="./images/workshopadd.png" width="600px"</img> 
 </div>
-#details admin and user can see
+# details admin and user can see
 
 <div align="center">
    <img src="./images/performer.png" width="600px"</img> 
