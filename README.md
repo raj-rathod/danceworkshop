@@ -36,6 +36,7 @@ if any query you can contact me at any time at linkedIn :-https://www.linkedin.c
 <div align="center">
     <img src="./images/topview.png" width="600px"</img> 
 </div>
+
 ## dance styles that provide to perform on the stage 
 <div align="center">
    <img src="./images/dancestyle.png" width="600px"</img> 
