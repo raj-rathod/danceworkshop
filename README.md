@@ -1,4 +1,4 @@
-## danceworkshop
+# danceworkshop
 
 it's mini project for database management(DBMS) using mysql , its basically for dance workshop where a group can organize a dance workshop and manage the participant and coach data
 
@@ -30,26 +30,29 @@ step 7:- admin username :-admin and password : admin
 
 if any query you can contact me at any time at linkedIn :-https://www.linkedin.com/in/rajesh-rathore-409a0316b/
 
-# If it is helpfull for you please give star
+### If it is helpfull for you please give star
 
-# Topview of index page
+## Topview of index page
 <div align="center">
     <img src="./images/topview.png" width="600px"</img> 
 </div>
-# dance styles that provide to perform on the stage 
+## dance styles that provide to perform on the stage 
 <div align="center">
    <img src="./images/dancestyle.png" width="600px"</img> 
 </div>
-# footer section
+
+## footer section
 <div align="center">
    <img src="./images/footer.png" width="600px"</img> 
 </div>
-# Add workshop 
+
+## Add workshop 
 after admin login, can add workshop 
 <div align="center">
    <img src="./images/workshopadd.png" width="600px"</img> 
 </div>
-# details admin and user can see
+
+## details admin and user can see
 
 <div align="center">
    <img src="./images/performer.png" width="600px"</img> 
@@ -58,7 +61,7 @@ after admin login, can add workshop
    <img src="./images/userdata.png" width="600px"</img> 
 </div>
 
-### Hi there, I'm <a href="https://www.sololearn.com/profile/10902790#_=_" target="_blank">Rajesh Rathore</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm <a href="https://www.sololearn.com/profile/10902790#_=_" target="_blank">Rajesh Rathore</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-rathore-0501/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.sololearn.com/profile/10902790#_=_)
