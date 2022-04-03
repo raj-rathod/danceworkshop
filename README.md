@@ -1,8 +1,8 @@
-#danceworkshop
+##danceworkshop
 
 it's mini project for database management(DBMS) using mysql , its basically for dance workshop where a group can organize a dance workshop and manage the participant and coach data
 
-#Technology used :
+##Technology used :
 
 phpmyadmin used for mysql database
 
