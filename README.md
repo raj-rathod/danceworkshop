@@ -1,4 +1,4 @@
-# danceworkshop
+# Dance Workshop (DBMS mini project)
 
 it's mini project for database management(DBMS) using mysql , its basically for dance workshop where a group can organize a dance workshop and manage the participant and coach data
 
