@@ -1,6 +1,6 @@
-# Dance Workshop (DBMS mini project)
+# Dance Workshop Management System: Streamlining Participant and Coach Data with MySQL
 
-it's mini project for database management(DBMS) using mysql , its basically for dance workshop where a group can organize a dance workshop and manage the participant and coach data
+this database management system is a valuable tool for dance workshop organizers who want to streamline their operations and manage their data more efficiently. Its user-friendly interface and powerful features make it an ideal choice for anyone looking to organize and manage a successful dance workshop
 
 ## Technology used :
 
