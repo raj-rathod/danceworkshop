@@ -1,7 +1,7 @@
 # Dance Workshop Management System: Streamlining Participant and Coach Data with MySQL
 
 this database management system is a valuable tool for dance workshop organizers who want to streamline their operations and manage their data more efficiently. Its user-friendly interface and powerful features make it an ideal choice for anyone looking to organize and manage a successful dance workshop
-
+change 1
 ## Technology used :
 
 phpmyadmin used for mysql database
